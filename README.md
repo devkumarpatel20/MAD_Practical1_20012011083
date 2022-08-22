@@ -16,3 +16,16 @@
 
 6.By using a user defined function perform all arithmetic operations.
 ![2022-08-08 (6)](https://user-images.githubusercontent.com/110648378/183416804-ec783ad2-7a63-43e0-a490-f260597762b2.png)
+
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+![2022-08-22](https://user-images.githubusercontent.com/110648378/185921361-a0795661-a4f3-43a1-9c4b-2a5031590040.png)
+
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+![2022-08-22 (1)](https://user-images.githubusercontent.com/110648378/185921761-e5df6089-3cf0-45d8-8ef7-3ef1908c89b0.png)
+
+9.Find the max number from ArrayList.
+![2022-08-22 (2)](https://user-images.githubusercontent.com/110648378/185922110-8b6693f9-41fb-4763-aeed-dbcb512ed2a0.png)
+
+10. Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
+11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
